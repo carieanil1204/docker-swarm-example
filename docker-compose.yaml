@@ -2,7 +2,7 @@ version: "3"
 services:
   web:
     # replace username/repo:tag with your name and image details
-    image: gopishankar1/myswarmapp:1.0.0
+    image: carieanil1204/scm:1.0.0
     deploy:
       replicas: 3
       restart_policy:
